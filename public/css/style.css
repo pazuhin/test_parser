@@ -1,0 +1,20 @@
+td {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    height: 100px;
+}
+
+thead {
+    font-weight: bold;
+}
+
+tr {
+    display: flex;
+}
+
+td, th {
+   width: 90px;
+}

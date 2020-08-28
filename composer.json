@@ -1,0 +1,20 @@
+{
+    "name": "andy/app",
+    "autoload": {
+        "psr-4": {
+            "crm\\": "vendor/crm",
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "gabordemooij/redbean": "dev-master",
+        "ext-dom": "*",
+        "vlucas/valitron": "^1.4",
+        "swiftmailer/swiftmailer": "^6.2",
+        "clue/buzz-react": "^2.9",
+        "imangazaliev/didom": "^1.16",
+        "ext-curl": "*",
+        "sunra/php-simple-html-dom-parser": "1.5.2",
+        "robmorgan/phinx": "^0.12.4"
+    }
+}
